@@ -1,1 +1,16 @@
-This metro style tiles Dashboard design with the ability to change the font size weight and style of the text can change color and can change the size of tile using metro UI 4 some jquery plugins and bootstrap 4.0   
+Windows style Metro Tile By Metro 4 https://metroui.org.ua/ 
+This design is made with 
+Bootstrap 4
+Metro 4 
+Jquery plugins
+
+This metro style tiles Dashboard design is with the following editable  abilities.
+Can Change the Color of Tile
+Can Change the font style
+Can Change the Font Size
+Enable or Disable the Tile.
+Can Change The icon in the Tile
+Fully Responsive.
+
+Just Download and use
+  
